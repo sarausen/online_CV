@@ -1,0 +1,10 @@
+.about_img {
+    width: 400px;
+    height: 250px;
+    object-fit: cover;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.about_text {
+    padding-top: 10px;
+}

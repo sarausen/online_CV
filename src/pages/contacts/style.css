@@ -1,0 +1,39 @@
+.contacts_email {
+    display: block;
+}
+.contacts_letter{
+    margin-top: 10px;
+}
+input {
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    font-family: italic;
+    padding-left: 10px;
+}
+textarea {
+    width: 300px;
+    margin-top: 20px;
+    font-family: italic;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+button {
+    width: 300px;
+    margin-top: 20px;
+    height: 40px;
+}
+.contacts_block{
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+}
+.contacts_contact {
+    margin-top: 40px;
+    padding-top: 7px;
+}
+button:hover {
+    color: #196ca8;
+  }
+  
+
