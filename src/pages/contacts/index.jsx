@@ -20,7 +20,7 @@ export const ContactsPage = () => {
          <button>Go to LinkedIn</button></a>
       <a href="tg://resolve?domain=M S">
          <button>Chat with Telegram</button></a>
-      <a href="https://github.com/suusara">
+      <a href="https://github.com/sarausen">
          <button>Go to GitHub</button></a>
      <div className="contacts_contact">
       <p>Kyrgyz Republic, Bishkek</p>
