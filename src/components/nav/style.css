@@ -39,3 +39,28 @@
 .nav li:hover {
   border: 1.5px solid #206596;
 }
+
+@media screen and (max-width: 768px) {
+  .contents {
+    margin-top: 30px;
+  }
+  .about_photo {
+    width: 120px;
+    height: 120px;
+    margin-top: 30px;
+  }
+  .menu_name {
+    font-size: 20px;
+    padding-top: 5px;
+  }
+  .speciality {
+    font-size: 14px;
+    padding-top: 3px;
+  }
+  .nav li {
+    width: 120px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+  }
+}

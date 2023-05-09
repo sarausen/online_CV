@@ -4,7 +4,22 @@
     object-fit: cover;
     padding-top: 20px;
     padding-bottom: 10px;
-}
-.about_text {
+  }
+  
+  .about_text {
     padding-top: 10px;
-}
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .about_img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
