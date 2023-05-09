@@ -10,7 +10,7 @@ export const ContactsPage = () => {
       <div className="contacts_email"> 
         <input type="text" placeholder="name" />
         <input type="email" placeholder="email" />
-        {/* <input className="contacts_file" type="file"  placeholder="file"/> */}
+         <input className="contacts_file" type="file"  placeholder="file"/> 
         <textarea name="" id="" cols="30" rows="10">Your message here...</textarea>
         <a href="mailto:smataeva09@gmail.com">
         <button>Send message</button></a>
