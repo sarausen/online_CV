@@ -9,14 +9,14 @@
 }
 .nav li {
   margin-top: 10px;
-  border: 1.5px solid;
+  border: 1.4px solid;
   width: 170px;
-  border-radius: 6px;
+  border-radius: 4px;
   color: #a56623;
   margin-left: 80px;
   margin-right: 80px;
-  padding-top: 7px;
-  padding-bottom: 7px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 .about_photo {
   width: 150px;
@@ -37,7 +37,7 @@
   padding-top: 3px;
 }
 .nav li:hover {
-  border: 1.5px solid #206596;
+  border: 1.4px solid #206596;
 }
 
 @media screen and (max-width: 768px) {
