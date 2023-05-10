@@ -16,12 +16,14 @@ export const ContactsPage = () => {
         <button>Send message</button></a>
      </div>
      <div className="contacts_a">
-      <a href="https://www.linkedin.com/in/S Mataeva/">
+      <a href="https://www.linkedin.com/in/s-mataeva-5a0270261/">
          <button>Go to LinkedIn</button></a>
       <a href="tg://resolve?domain=M S">
          <button>Chat with Telegram</button></a>
       <a href="https://github.com/sarausen">
          <button>Go to GitHub</button></a>
+      <a href="https://www.behance.net/smataeva">
+         <button>Behance</button></a>
      <div className="contacts_contact">
       <p>Kyrgyz Republic, Bishkek</p>
       <p>smataeva09@gmail.com</p>
