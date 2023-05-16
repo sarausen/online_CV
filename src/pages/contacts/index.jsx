@@ -1,5 +1,6 @@
 import "./style.css"
 
+
 export const ContactsPage = () => {
   return (
     <div  className="main">
@@ -19,14 +20,14 @@ export const ContactsPage = () => {
       <a href="https://www.linkedin.com/in/s-mataeva-5a0270261/">
          <button className="contacts_button">Go to LinkedIn</button></a>
       <a href="tg://resolve?domain=M S">
-         <button className="contacts_button">Chat with Telegram</button></a>
+         <button className="contacts_button"> Chat with Telegram</button></a>
       <a href="https://github.com/sarausen">
          <button className="contacts_button">Go to GitHub</button></a>
       <a href="https://www.behance.net/smataeva">
          <button className="contacts_button">Behance</button></a>
      <div className="contacts_contact">
       <p>Kyrgyz Republic, Bishkek</p>
-      <p>smataeva09@gmail.com</p>
+      <p className="contacts_data">smataeva09@gmail.com</p>
       <p>+996 555 111 850</p>
      </div>
     </div>

@@ -31,7 +31,6 @@ button {
 }
 .contacts_contact {
     margin-top: 40px;
-    padding-top: 7px;
 }
 button:hover {
     color: #206596;
@@ -47,5 +46,8 @@ button:hover {
     cursor: pointer;
     border-style: double;
 }
-
+.contacts_data {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
 
