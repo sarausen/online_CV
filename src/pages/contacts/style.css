@@ -51,3 +51,80 @@ button:hover {
     margin-bottom: 4px;
 }
 
+.contacts_email {
+    display: block;
+  }
+  
+  .contacts_letter {
+    margin-top: 10px;
+  }
+  
+  input {
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    font-family: italic;
+    padding-left: 10px;
+    outline: none;
+  }
+  
+  textarea {
+    width: 300px;
+    margin-top: 20px;
+    font-family: italic;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  
+  button {
+    width: 300px;
+    margin-top: 20px;
+    height: 40px;
+  }
+  
+  .contacts_block {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+  }
+  
+  .contacts_contact {
+    margin-top: 40px;
+  }
+  
+  button:hover {
+    color: #206596;
+  }
+  
+  .contacts_button {
+    background: none;
+    cursor: pointer;
+    border-radius: 4px;
+    border-style: double;
+  }
+  
+  .contacts_input {
+    border-radius: 4px;
+    cursor: pointer;
+    border-style: double;
+  }
+  
+  .contacts_data {
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+  
+  @media (max-width: 768px) {
+    .contacts_block {
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+    }
+  
+    input,
+    textarea,
+    button {
+      width: 100%;
+    }
+  }
+  
