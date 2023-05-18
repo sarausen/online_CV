@@ -20,3 +20,45 @@ h3 {
 .extra_economist {
     padding-top: 3px;
 }
+
+.main {
+    padding-left: 70px;
+  }
+  
+  @media (max-width: 768px) {
+    .main {
+      padding-left: 20px;
+    }
+  }
+  
+  h2 {
+    margin-top: 40px;
+  }
+  
+  .resume_profession {
+    width: 770px;
+    padding-top: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .resume_profession {
+      width: 100%;
+    }
+  }
+  
+  h3 {
+    padding-top: 30px;
+  }
+  
+  .resume_expierience {
+    padding-top: 3px;
+  }
+  
+  .resume_education {
+    padding-top: 3px;
+  }
+  
+  .extra_education {
+    padding-top: 3px;
+  }
+  
