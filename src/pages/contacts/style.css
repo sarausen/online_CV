@@ -51,27 +51,27 @@ button:hover {
   margin-bottom: 4px;
 }
 .contacts_email {
-    display: block;
+  display: block;
 }
   
 .contacts_letter {
   margin-top: 10px;
 }
 input {
-    width: 300px;
-    height: 40px;
-    margin-top: 20px;
-    font-family: italic;
-    padding-left: 10px;
-    outline: none;
+  width: 300px;
+  height: 40px;
+  margin-top: 20px;
+  font-family: italic;
+  padding-left: 10px;
+  outline: none;
 }
 textarea {
-    width: 300px;
-    margin-top: 20px;
-    font-family: italic;
-    padding-top: 10px;
-    padding-left: 10px;
-  }
+  width: 300px;
+  margin-top: 20px;
+  font-family: italic;
+  padding-top: 10px;
+  padding-left: 10px;
+}
   
   button {
     width: 300px;
