@@ -18,6 +18,7 @@ export const ResumePage = () => {
         <p>Economist</p>
         <h3>Extra Education</h3>
        <p className="extra_education">2011 - 2012 Certified Accounting Practitioner (CAP)</p>
+       <p className="extra_education_two">2023 Bootcamp JavaScript</p>
      </div>
    </div>
 
