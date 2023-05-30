@@ -41,11 +41,6 @@
     background-color: #206596;
     width: 70%; /* для React */
   }
-  .skill-bar__progress--figma {
-    background-color: #206596;
-    width: 90%; /* для React */
-  }
-  
   
   .skill-bar__percentage {
     font-weight: bold;
@@ -92,11 +87,6 @@
   .skill-bar__progress--react {
     background-color: #206596;
     width: 70%; /* для React */
-  }
-  
-  .skill-bar__progress--figma {
-    background-color: #206596;
-    width: 90%; /* для Figma */
   }
   
   .skill-bar__percentage {

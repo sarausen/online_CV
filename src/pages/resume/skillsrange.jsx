@@ -24,13 +24,6 @@ const Resume = () => {
         </div>
         <span className="skill-bar__percentage">70%</span>
       </div>
-      <div className="skill-bar">
-        <span className="skill-bar__label">Figma</span>
-        <div className="skill-bar__bar">
-          <div className="skill-bar__progress skill-bar__progress--figma"></div>
-        </div>
-        <span className="skill-bar__percentage">90%</span>
-      </div>
     </div>
   );
 };
