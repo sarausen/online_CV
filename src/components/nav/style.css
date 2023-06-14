@@ -44,6 +44,9 @@
   .contents {
     margin-top: 30px;
   }
+  .menu_block {
+    height: 1000px;
+  }
   .about_photo {
     width: 120px;
     height: 120px;
