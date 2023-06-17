@@ -18,7 +18,7 @@ const Resume = () => {
         <span className="skill-bar__percentage">70%</span>
       </div>
       <div className="skill-bar">
-        <span className="skill-bar__label">React</span>
+        <span className="skill-bar__label">JavaScript</span>
         <div className="skill-bar__bar">
           <div className="skill-bar__progress skill-bar__progress--react"></div>
         </div>
@@ -29,7 +29,7 @@ const Resume = () => {
         <div className="skill-bar__bar">
           <div className="skill-bar__progress skill-bar__progress--react"></div>
         </div>
-        <span className="skill-bar__percentage">70%</span>
+        <span className="skill-bar__percentage">60%</span>
       </div>
     </div>
   );
