@@ -17,7 +17,7 @@ export const ContactsPage = () => {
         <button className="contacts_button">Send message</button></a>
      </div>
      <div className="contacts_a">
-      <a href="https://www.linkedin.com/in/s-mataeva-5a0270261/">
+      <a href="https://www.linkedin.com/in/suusara-u-5a0270261/">
          <button className="contacts_button">Go to LinkedIn</button></a>
       <a href="tg://resolve?domain=M S">
          <button className="contacts_button"> Chat with Telegram</button></a>
