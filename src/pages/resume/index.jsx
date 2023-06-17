@@ -11,7 +11,7 @@ export const ResumePage = () => {
         <h3>Skills</h3>
         < Resume />
         <h3>Expierience</h3>
-        <p className="resume_expierience">09/2012 - Present time</p>
+        <p className="resume_expierience">09/2012 - 10/2022</p>
         <p>Economist</p>
         <h3>Education</h3>
         <p className="resume_education">2007 - 2012 Academy of Public Administration under the President of the Kyrgyz Republic</p>
