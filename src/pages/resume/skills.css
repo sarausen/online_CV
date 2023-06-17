@@ -86,7 +86,7 @@
   
   .skill-bar__progress--react {
     background-color: #206596;
-    width: 70%; /* для React */
+    width: 60%; /* для React */
   }
   
   .skill-bar__percentage {
