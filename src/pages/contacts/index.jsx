@@ -14,7 +14,7 @@ export const ContactsPage = () => {
          <input className="contacts_file" type="file"  placeholder="file"/> 
         <textarea  name="" id="" cols="30" rows="10">Your message here...</textarea>
         <a href="mailto:smataeva09@gmail.com">
-        <button className="contacts_button">Send message</button></a>
+        <button className="contacts_button">Send message</button></a> 
      </div>
      <div className="contacts_a">
       <a href="https://www.linkedin.com/in/suusara-u-5a0270261/">
