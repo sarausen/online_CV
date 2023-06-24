@@ -13,7 +13,7 @@ export const PortfolioPage = () => {
           <div>
             <h4>Heart in paws</h4>
             <p className="portfolio_project">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English</p>
-            <a className="githud" href="https://github.com/sparrowkg/animal-shelter">https://github.com/sarausen</a>
+            <a className="githud" href="https://my-final-project-nine.vercel.app/">https://github.com/sarausen</a>
           </div>
         </div>
         <div className="portfolio_block">
