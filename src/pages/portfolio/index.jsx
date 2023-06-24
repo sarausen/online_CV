@@ -7,7 +7,7 @@ export const PortfolioPage = () => {
         <h2>My Portfolio</h2>
         <div className="portfolio_block">
            <div className="portfolio_bl">
-             <img className="portfolio_img" src="" alt=""/>
+             <img className="portfolio_img" src={Honey} alt=""/>
           </div>
           <div>
             <h4>Heart in paws</h4>
