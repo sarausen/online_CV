@@ -1,5 +1,6 @@
 import "./style.css"
 import Honey from '../../assets/honey.png'
+import Animals from "../../assets/animals.png"
 export const PortfolioPage = () => {
   return (
     <div className="main"> 
@@ -7,7 +8,7 @@ export const PortfolioPage = () => {
         <h2>My Portfolio</h2>
         <div className="portfolio_block">
            <div className="portfolio_bl">
-             <img className="portfolio_img" src={Honey} alt=""/>
+             <img className="portfolio_img" src={Animals} alt=""/>
           </div>
           <div>
             <h4>Heart in paws</h4>
