@@ -15,7 +15,7 @@ export const ResumePage = () => {
         <p>Economist</p>
         <h3>Education</h3>
         <p className="resume_education">2007 - 2012 Academy of Public Administration under the President of the Kyrgyz Republic</p>
-        <p>Economist</p>
+        <p>Accounting, analysis and audit</p>
         <h3>Extra Education</h3>
        <p className="extra_education">2011 - 2012 Certified Accounting Practitioner (CAP)</p>
        <p className="extra_education">2022 UX/UI Design</p>
